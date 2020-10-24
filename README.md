@@ -24,3 +24,10 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/6t8tGWcyU1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+## MAKE-UP Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://g.recordit.co/32jnxm8WOx.gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
